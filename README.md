@@ -1,6 +1,6 @@
 # Overview
 
-This project was designed to find the optimal times in your location to be outside. Research has found that the optimal temperature for our bodies is between 68 and 77 degrees F. Using this information and with the assistance of the NOAA NCEI GSOM (Global Summary of the Month) weather API. 
+This project was designed to find the optimal times in your location to be outside. Research has found that the optimal temperature for our bodies is between 68 and 77 degrees F. Using this information and with the assistance of the NCEI NOAA GSOM (Global Summary of the Month) weather API. 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
@@ -16,7 +16,7 @@ which allows for a simple and streamlined Python development experience.
 # Useful Websites
 
 * [Optimal and Extreme temperatures to be outside](https://www.healthline.com/health/extreme-temperature-safety)
-* [Pandas Docs](https://pandas.pydata.org/docs/index.html)
+* [NCEI NOAA GSOM location and station ID's](https://www.ncei.noaa.gov/access/search/data-search/global-summary-of-the-month)
 
 # Future Work
 

@@ -43,7 +43,7 @@ def GetGraph(stationId : str = "",locationId : str = ""):
         "datasetid" : "GSOM", #retrieve all datasets by calling datasets w no params
         "stationid" : stationId,
         "datatypeid" : ["TAVG","TMAX","TMIN"],
-        "locationid": locationId,
+        #"locationid": locationId,
         "startdate" : start_date.strftime("%Y-%m-%d"),
         "enddate" : end_date.strftime("%Y-%m-%d"),
         "limit" : "100" #25 is default

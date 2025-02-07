@@ -1,34 +1,25 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of the data set that you are analyzing.  Include the link of where you obtained the data.}
-
-{Describe your purpose for writing this software to analyze the data.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
+This project was designed to find the optimal times in your location to be outside. Research has found that the optimal temperature for our bodies is between 68 and 77 degrees F. Using this information and with the assistance of the NOAA NCEI GSOM (Global Summary of the Month) weather API. 
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Data Analysis Results
 
-Using this analysis, I was able to understand the optimal months to spend additional time outside. Of course, time spent outside is always beneficial, but evidence suggests additional benefits when time outside is spent in optimal temperatures (68 to 77 degrees F)
+Using this analysis, I was able to understand the optimal months to spend additional time outside. Of course, time spent outside is always beneficial, but evidence suggests additional benefits when time outside is spent in optimal temperatures (68 to 77 degrees F).
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+For this program, I used Python with the assistance of the Pandas, Matplotlib, and tkinter packages. This program was originally developed in Visual Studio Code, 
+which allows for a simple and streamlined Python development experience.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Optimal and Extreme temperatures to be outside](https://www.healthline.com/health/extreme-temperature-safety)
+* [Pandas Docs](https://pandas.pydata.org/docs/index.html)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add a autocomplete location entry box using a location API (ex: Google Maps Place Autocomplete API)
+* Rewrite in C# to build as a WinUI 3 application for simple usability
+* Simplify view to either show graph or a text summary with optimal times for outdoor recreation and other activities

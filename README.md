@@ -2,7 +2,7 @@
 
 This project was designed to find the optimal times in your location to be outside. Research has found that the optimal temperature for our bodies is between 68 and 77 degrees F. Using this information and with the assistance of the NCEI NOAA GSOM (Global Summary of the Month) weather API, I created an applet using tkinter and pandas to display the average monthly temperatures in a given area over the past 5 years. I then added shaded regions to the graph, displaying optimal temperatures to be outside as well as extreme temperatures during which precautions should be taken to avoid injury.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/citohErx5mc)
 
 # Data Analysis Results
 
